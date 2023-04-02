@@ -1,0 +1,13 @@
+html {
+  font-family: Assistant, sans-serif;
+  font-size: 20px;
+}
+em {
+  color: gold;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
